@@ -1,0 +1,13 @@
+Package: FrissButtonGroup
+Type: Package
+Title: Shiny buttongroup input component specifically designed for the
+        filter module in the dashboard app
+Version: 0.1.4
+Date: 2015-07-15
+Author: Erwin Schuijtvlot
+Maintainer: Erwin Schuijtvlot <erwin.schuijtvlot@friss.eu>
+Description: A button group is a container with a number of buttons that can have three states: Not selected, Selected and Implied. The implied state is a special state for the filter app used to highlight which items are automatically filtered out when a selection is made.
+License: NA
+LazyData: TRUE
+NeedsCompilation: no
+Packaged: 2016-05-17 13:19:28 UTC; eschuijtvlot

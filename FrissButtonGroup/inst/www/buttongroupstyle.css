@@ -1,0 +1,13 @@
+.Friss .btn{
+	border-radius: 0px;
+	margin:2px;
+}
+
+.btn-group.Friss .btn-xs{
+  background-color: LightGray;
+}
+
+.btn-group.Friss .selected{
+	color: white;
+	background-color: green;
+}
